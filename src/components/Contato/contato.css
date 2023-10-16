@@ -21,7 +21,7 @@
 }
 .opcao_contato:hover{
     background: transparent;
-    border-color: orange;
+    border-color: #1ED760;
 }
 
 .opcao_contato-icone{
@@ -53,7 +53,7 @@ input, textarea{
     padding: 1.5rem; 
     border-radius: 0.5rem;
     background: transparent;
-    border: 2px solid orange;
+    border: 2px solid #1ED760;
     resize: none;
     color: rgb(236, 236, 236);
 }

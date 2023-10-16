@@ -42,7 +42,7 @@
 }
 .sobre_card:hover{
 background: transparent;
-border-color: orange;
+border-color: #1ED760;
 cursor: default;
 }
 
@@ -53,7 +53,7 @@ cursor: default;
 
 .sobre_card h5{
     font-size:  0.98rem;
-    color: orange;
+    color: #1ED760;
 }
 
 .sobre_card small{

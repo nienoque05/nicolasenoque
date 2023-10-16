@@ -13,8 +13,8 @@
 :root {
   --color-bg: #121212;
   --color-bg-variant: #2222;
- /*  --color-primary: #1ED760; */
- --color-primary: orange;
+  --color-primary: #1ED760;
+ /* --color-primary: orange; */
   --color-primary-variant: #0000;
   --color-white: rgba(255, 255, 255, 0.945);
   --color-ligth: rgba(255, 255, 255, 0.6);
